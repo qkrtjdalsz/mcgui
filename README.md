@@ -1,4 +1,4 @@
-# MC GUI
+# MC GUI .
 
 Put an HTML page in `plugins/MCGUI/pages/` and it is in the game: on a wall,
 or fullscreen in front of the player, who points with their mouse and clicks.
